@@ -29,6 +29,8 @@ To explore the project:
 2. Open the project in Unity 2022.3.5f1
 3. The code and assets are available for you to see for yourself.
 
+The demo is also available as a .unitypackage for you to import to a Unity project.
+
 ## Attribution
 
 This project uses assets from the Unity Asset Store:
