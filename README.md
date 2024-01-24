@@ -1,9 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/uYY8lrdZ)
-
 # Headless Zombie Demo: Unity
-
-> **Name:** Megan Hamilton-Mills
-> **ID:** 23643881
 
 This project forms part of my final submission for the MSc Games Development *'Games Programming'* module.
 
